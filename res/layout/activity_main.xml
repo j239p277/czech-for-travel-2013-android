@@ -1,0 +1,197 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scrollView"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:layout_centerHorizontal="true"
+    android:background="#292929" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/activity_bottom_margin"
+        android:layout_marginLeft="@dimen/activity_left_margin"
+        android:layout_marginRight="@dimen/activity_right_margin"
+        android:layout_marginTop="@dimen/activity_top_margin" >
+
+        <LinearLayout
+            android:id="@+id/ll_row1"
+            style="@style/style_ll_but_row_port" >
+
+            <Button
+                android:id="@+id/butEmergencies"
+                style="@style/style_button_cat_port_bl"
+                android:contentDescription="@string/but_emergencies"
+                android:drawableTop="@drawable/ic_emergerncies"
+                android:text="@string/but_emergencies" />
+            <Button
+                android:id="@+id/butPhrases"
+                style="@style/style_button_cat_port_bl"
+                android:contentDescription="@string/but_phrases"
+                android:drawableTop="@drawable/ic_phrases"
+                android:text="@string/but_phrases" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_row2"
+            style="@style/style_ll_but_row_port"
+            android:layout_below="@id/ll_row1" >
+
+            <Button
+                android:id="@+id/butGreetings"
+                style="@style/style_button_cat_port_bl"
+                android:contentDescription="@string/but_greetings"
+                android:drawableTop="@drawable/ic_greetings"
+                android:text="@string/but_greetings" />
+
+            <Button
+                android:id="@+id/butTraveling"
+                style="@style/style_button_cat_port_bl"
+                android:contentDescription="@string/but_traveling"
+                android:drawableTop="@drawable/ic_traveling"
+                android:text="@string/but_traveling" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_row3"
+            style="@style/style_ll_but_row_port"
+            android:layout_below="@id/ll_row2" >
+
+            <Button
+                android:id="@+id/butHotel"
+                style="@style/style_button_cat_port_bl"
+                android:contentDescription="@string/but_hotel"
+                android:drawableTop="@drawable/ic_hotel"
+                android:text="@string/but_at_hotel" />
+
+            <Button
+                android:id="@+id/butAtTheBank"
+                style="@style/style_button_cat_port_bl"
+                android:contentDescription="@string/but_bank"
+                android:drawableTop="@drawable/ic_bank"
+                android:text="@string/but_at_bank" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_row4"
+            style="@style/style_ll_but_row_port"
+            android:layout_below="@id/ll_row3" >
+
+            <Button
+                android:id="@+id/butRestaurant"
+                style="@style/style_button_cat_port_bl"
+                android:contentDescription="@string/but_restaurant"
+                android:drawableTop="@drawable/ic_restaurant"
+                android:text="@string/but_at_restaurant" />
+
+            <Button
+                android:id="@+id/butFood"
+                style="@style/style_button_cat_port_bl"
+                android:contentDescription="@string/but_food"
+                android:drawableTop="@drawable/ic_food"
+                android:text="@string/but_czech_food" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_row5"
+            style="@style/style_ll_but_row_port"
+            android:layout_height="match_parent"
+            android:layout_below="@id/ll_row4" >
+
+            <Button
+                android:id="@+id/butPrague"
+                style="@style/style_button_cat_port_bl"
+                android:contentDescription="@string/but_prague"
+                android:drawableTop="@drawable/ic_prague"
+                android:text="@string/but_prague" />
+
+            <Button
+                android:id="@+id/butShopping"
+                style="@style/style_button_cat_port_bl"
+                android:contentDescription="@string/but_shopping"
+                android:drawableTop="@drawable/ic_shopping"
+                android:text="@string/but_shopping" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_row6"
+            style="@style/style_ll_but_row_port"
+            android:layout_below="@id/ll_row5" >
+
+            <Button
+                android:id="@+id/butCountries"
+                style="@style/style_button_cat_port_bl"
+                android:contentDescription="@string/but_countries"
+                android:drawableTop="@drawable/ic_countries"
+                android:text="@string/but_countries" />
+
+            <Button
+                android:id="@+id/butFamily"
+                style="@style/style_button_cat_port_bl"
+                android:contentDescription="@string/but_family"
+                android:drawableTop="@drawable/ic_family"
+                android:text="@string/but_family" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_row7"
+            style="@style/style_ll_but_row_port"
+            android:layout_below="@id/ll_row6" >
+
+            <Button
+                android:id="@+id/butCalendar"
+                style="@style/style_button_cat_port_bl"
+                android:contentDescription="@string/but_calendar"
+                android:drawableTop="@drawable/ic_calendar"
+                android:text="@string/but_calendar" />
+
+            <Button
+                android:id="@+id/butColors"
+                style="@style/style_button_cat_port_bl"
+                android:contentDescription="@string/but_colors"
+                android:drawableTop="@drawable/ic_colors"
+                android:text="@string/but_colors" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_row8"
+            style="@style/style_ll_but_row_port"
+            android:layout_height="match_parent"
+            android:layout_below="@id/ll_row7" >
+
+            <Button
+                android:id="@+id/butTime"
+                style="@style/style_button_cat_port_bl"
+                android:contentDescription="@string/but_time"
+                android:drawableTop="@drawable/ic_time"
+                android:text="@string/but_time" />
+
+            <Button
+                android:id="@+id/butToBe"
+                style="@style/style_button_cat_port_bl"
+                android:contentDescription="@string/but_tobe"
+                android:drawableTop="@drawable/ic_tobe"
+                android:text="@string/but_verb_to_be" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_row9"
+            style="@style/style_ll_but_row_port"
+            android:layout_below="@id/ll_row8" >
+
+            <Button
+                android:id="@+id/butAlphabet"
+                style="@style/style_button_cat_port_bl"
+                android:contentDescription="@string/but_alphabet"
+                android:drawableTop="@drawable/ic_alphabet"
+               android:text="@string/but_alphabet" />
+
+            <Button
+                android:id="@+id/butNumbers"
+                style="@style/style_button_cat_port_bl"
+                android:contentDescription="@string/but_numbers"
+                android:drawableTop="@drawable/ic_numbers"
+                android:text="@string/but_numbers" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</ScrollView>

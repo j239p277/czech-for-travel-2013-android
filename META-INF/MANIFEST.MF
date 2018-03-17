@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Czech_2013_12
+Bundle-SymbolicName: Czech_2013_12-1
+Bundle-Version: 1.0.0.qualifier
+Export-Package: com.janpolzer.czech

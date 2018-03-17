@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="array_at_the_bank_en">
+        <item>At the bank</item>
+        <item>Where is ATM?</item>
+        <item>I\'d like to exchange traveler\'s checks.</item>
+        <item>Commission</item>
+        <item>Credit card</item>
+        <item>Debit card</item>
+        <item>Do you know where a money exchange office is?</item>
+        <item>Where should I sign it?</item>
+        <item>Password</item>
+        <item>Client number</item>
+        <item>Is it secure?</item>
+        <item>Internet banking</item>
+        <item>Money</item>
+        <item>Money transfer</item>
+        <item>How many crowns I get for 1 US dollar.</item>
+    </string-array>
+    <string-array name="array_at_the_bank_cs_big">
+        <item>V bance</item>
+        <item>Kde je bankomat?</item>
+        <item>Chci vyměnit cestovní šeky.</item>
+        <item>Provize</item>
+        <item>Úvěrová karta</item>
+        <item>Platební karta</item>
+        <item>Víte kde je směnárna</item>
+        <item>Kde to mám podepsat?</item>
+        <item>Heslo</item>
+        <item>Klientské číslo</item>
+        <item>Je to bezpečné?</item>
+        <item>Internetové bankovnictví</item>
+        <item>Peníze</item>
+        <item>Převod peněz</item>
+        <item>Kolik korun dostanu za jeden americký dolar?</item>
+    </string-array>
+    <string-array name="array_at_the_bank_cs1">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="array_at_the_bank_cs2">
+        <item>plular: V bankách</item>
+        <item></item>
+        <item></item>
+        <item>plular: Provize (same as singular)</item>
+        <item>plular: Úvěrová karty</item>
+        <item>plular: Platební karty</item>
+        <item></item>
+        <item></item>
+        <item>plular: Hesla</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>plular: Peníze (same as singular)</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="array_at_the_bank_cs3">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>also: Kreditka or Karta</item>
+        <item>familiar: Karta</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+</resources>

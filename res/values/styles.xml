@@ -1,0 +1,53 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+        <item name="android:textColor">#e5e5e5</item>
+    </style>
+
+    <style name="style_ll_but_row_port">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:orientation">horizontal</item>
+    </style>
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Black">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <style name="style_button_cat_port_bl">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">88dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">@dimen/text_size_medium</item>
+        <item name="android:textColor">@color/text_color</item>
+        <item name="android:textColorHighlight">#ffffff</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:paddingTop">12dp</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">2</item>
+        <item name="android:background">@drawable/selector_button_category</item>
+        <item name="android:onClick">onCategoryButtonClick</item>
+    </style>
+
+    <style name="style_text_list_selected_bl">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
+    <style name="style_text_list_bl">
+        <item name="android:textStyle">normal</item>
+    </style>
+
+</resources>

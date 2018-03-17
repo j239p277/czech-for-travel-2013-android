@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="array_phrases_en">
+        <item>Phrases</item>
+        <item>Thank you</item>
+        <item>Please</item>
+        <item>You welcome</item>
+        <item>Here you are</item>
+        <item>My name is John.</item>
+        <item>I am an English man.</item>
+        <item>I am from the United States.</item>
+        <item>Nice to meet you.</item>
+        <item>It was nice to meet you.</item>
+        <item>How do you like it here?</item>
+        <item>It\'s beautiful here.</item>
+        <item>It\'s always raining here.</item>
+        <item>Do you speak English?</item>
+        <item>Would you repeat it, please?</item>
+        <item>I am well.</item>
+        <item>Okay.</item>
+        <item>Is it correct?</item>
+        <item>Czech man</item>
+        <item>Czech woman</item>
+        <item>Czech language</item>
+        <item>The capital of Czech Republic is Prague</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Velvet revolution</item>
+        <item>I like Milan Kundera\'s books.</item>
+        <item>Czechoslovakia dissoluted on January 1st 1993.</item>
+        <item>Slovakian capital city in Bratislava.</item>
+    </string-array>
+    <string-array name="array_phrases_cs_big">
+        <item>Fráze</item>
+        <item>Děkuji</item>
+        <item>Prosím</item>
+        <item>Prosím</item>
+        <item>Prosím</item>
+        <item>Jmenuji se John.</item>
+        <item>Jsem Angličan.</item>
+        <item>Jsem ze Spojených států.</item>
+        <item>Těší mě.</item>
+        <item>Těšilo mě.</item>
+        <item>Jak se vám tady líbí?</item>
+        <item>Je tady krásně.</item>
+        <item>Pořád tady prší.</item>
+        <item>Mluvíte anglicky?</item>
+        <item>Můžete to zopakovat?</item>
+        <item>Mám se dobrě.</item>
+        <item>Dobře.</item>
+        <item>Je to dobře?</item>
+        <item>Čech</item>
+        <item>Češka</item>
+        <item>Čeština</item>
+        <item>Hlavní město České Republiky je Praha.</item>
+       <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Sametová revoluce</item>
+        <item>Mám rád knihy Milana Kundery.</item>
+        <item>Československo se rozpadlo prvního ledna 1993.</item>
+        <item>Hlavní město Slovenska je Bratislava.</item>
+    </string-array>
+    <string-array name="array_phrases_cs1">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>(masculine)</item>
+        <item></item>
+        <item></item>
+        <item>- used while leaving</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="array_phrases_cs2">
+        <item>singular: Fráze (same as plular)</item>
+        <item>plular: Děkujeme</item>
+        <item>- same as You welcome, or Here you are</item>
+        <item>- same as Please, or Here you are</item>
+        <item>- same as You welcome, or Please</item>
+        <item></item>
+        <item>Jsem Angličanka. (feminine)</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="array_phrases_cs3">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+</resources>

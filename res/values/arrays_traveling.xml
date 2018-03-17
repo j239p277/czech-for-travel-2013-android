@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="array_travel_en">
+        <item>Traveling</item>
+        <item>Where is a train station?</item>
+        <item>Where can I rent a car?</item>
+        <item>Can I pay with a credit card?</item>
+        <item>Do you have this guide book in English?</item>
+        <item>Do you have tour guide in English?</item>
+        <item>Boarding pass, please!</item>
+        <item>Passport, please!</item>
+        <item>I need to buy tickets for subway?</item>
+        <item>Next stop: Main train station.</item>
+        <item>Where do I get to Charles street?</item>
+        <item>Square</item>
+        <item>Theatre</item>
+        <item>Church</item>
+        <item>Spa</item>
+        <item>I\'d like to visit Carlsbad</item>
+        <item>I\'d like to go for a trip to Marienbad.</item>
+        <item>How far is castle Karlštejn castle from here?</item>
+        <item>Can you take us for trip to castle Konopiště?</item>
+        <item></item>
+    </string-array>
+    <string-array name="array_travel_cs_big">
+        <item>Cestování</item>
+        <item>Kde je vlakové nádraží?</item>
+        <item>Kde si mohu půjčit auto?</item>
+        <item>Mohu platit kartou?</item>
+        <item>Máte tuto brožůru v Angličtině?</item>
+        <item>Máte průvodce v Angličtině?</item>
+        <item>Letenku, prosím!</item>
+        <item>Cestovní pas, prosím!</item>
+        <item>Potřebuji koupit lísky na metro.</item>
+        <item>Příští stanice: Hlavní nádraží</item>
+        <item>Kde se dostanu na Karlovu ulici?</item>
+        <item>Náměstí</item>
+        <item>Divadlo</item>
+        <item>Kostel</item>
+        <item>Lázně</item>
+        <item>Rád bych navštívil Karlovy Vary.</item>
+        <item>Rád bych jel na výlet do Mariánských Lázní.</item>
+        <item>Jak daleko odsud je hrad Karlštejn?</item>
+        <item>Můžete nás vzít na výlet na hrad Konopiště?</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="array_travel_cs1">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="array_travel_cs2">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>plular: Letenky, prosím</item>
+        <item>or: Pas, prosím</item>
+        <item></item>
+        <item>-abbreviated Praha hl.n</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="array_travel_cs3">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>plular: Cestovní pasy, prosím</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+</resources>

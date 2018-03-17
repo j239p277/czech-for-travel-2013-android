@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="text_highlighted_color">#e5e5e5</color>
+    <color name="text_color">#C2C2C2</color>
+    <color name="state_pressed">#60236B8E</color>  
+    <color name="state_focused">#60FFA500</color>    
+</resources>

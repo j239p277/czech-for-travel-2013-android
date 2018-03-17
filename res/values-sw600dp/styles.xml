@@ -1,0 +1,25 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <style name="style_button_cat_port_bl">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">132dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">@dimen/text_size_medium</item>
+        <item name="android:textColor">@color/text_color</item>
+    <item name="android:paddingTop">20dp</item>        
+            <item name="android:textColorHighlight">#ffffff</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">2</item>
+        <item name="android:background">@drawable/selector_button_category</item>
+        <item name="android:onClick">onCategoryButtonClick</item>
+    </style>
+
+ 
+
+    
+</resources>

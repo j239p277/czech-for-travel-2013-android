@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#292929"
+    android:gravity="center" >
+    <TextView
+        android:id="@+id/about"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/but_terms"
+        android:layout_centerHorizontal="true"
+        android:padding="8dp"
+        android:text="@string/eula" />
+
+    <Button
+        android:id="@+id/but_about_ok"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/version"
+        android:padding="8dp"
+        android:onClick="onOkClick"
+        android:text="@string/ok" />
+
+    <TextView
+        android:id="@+id/version"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/about"
+        android:layout_centerHorizontal="true"
+        android:padding="8dp"
+        android:text="@string/version" />
+
+    <Button
+        android:id="@+id/but_terms"
+        android:layout_width="wrap_content"
+        android:padding="8dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="@string/terms" />
+
+</RelativeLayout>
